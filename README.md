@@ -7,7 +7,7 @@ The model must predict the recovery rate of gold from gold-bearing ore. We have 
 The model will help to optimize production so that you don't run a plant with unprofitable characteristics.
 
 Let us describe each stage:<br>
-**1. Flotation . **
+**1. Flotation . **<br>
 A mixture of gold-bearing ore is fed into the flotation unit. After enrichment we get rough concentrate and "tailings", i.e. product residues with low concentration of valuable metals.
 The stability of this process is affected by the unstable and non-optimal physical and chemical state of the flotation pulp (mixture of solid particles and liquid).<br>
 **2. purification**<br>
