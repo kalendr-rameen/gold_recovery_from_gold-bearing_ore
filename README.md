@@ -6,12 +6,12 @@ Prepare a prototype machine learning model for Digital. The company develops sol
 The model must predict the recovery rate of gold from gold-bearing ore. We have data with mining and refining parameters at our disposal.
 The model will help to optimize production so that you don't run a plant with unprofitable characteristics.
 
-Let us describe each stage:
+Let us describe each stage:<br>
 **1. Flotation . **
 A mixture of gold-bearing ore is fed into the flotation unit. After enrichment we get rough concentrate and "tailings", i.e. product residues with low concentration of valuable metals.
-The stability of this process is affected by the unstable and non-optimal physical and chemical state of the flotation pulp (mixture of solid particles and liquid).
-**2. purification**
-The crude concentrate undergoes two purifications. The output is the final concentrate and new tailings.
+The stability of this process is affected by the unstable and non-optimal physical and chemical state of the flotation pulp (mixture of solid particles and liquid).<br>
+**2. purification**<br>
+The crude concentrate undergoes two purifications. The output is the final concentrate and new tailings.<br>
 
 
 ```
